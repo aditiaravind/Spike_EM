@@ -25,7 +25,8 @@ Where, $x_t$ is a 2-d vector representing the hidden states that affect a neuron
   - check_gradient
   - test_max_L
   - test_KF
-  - Use gen_params() for randomized input parameters. 
+- Helpers:
+    - Use gen_params() for randomized input parameters. 
 - Kalman Filter & Fixed Interval Smoother
   - Single ocillation implementation complete
 - EM
