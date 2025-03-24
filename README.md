@@ -29,5 +29,6 @@ Where, $x_t$ is a 2-d vector representing the hidden states that affect a neuron
 - Kalman Filter & Fixed Interval Smoother
   - Single ocillation implementation complete
 - EM
-  - E-step
+  - E-step (<b> np.dot </b> is problematic )
+  
   
